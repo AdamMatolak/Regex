@@ -1,4 +1,4 @@
-package sk.itsovy.kovalcik.regex;
+package sk.itsovy.matolak.regex;
 
 public class Main {
 }
